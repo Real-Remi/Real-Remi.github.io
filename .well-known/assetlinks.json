@@ -12,6 +12,13 @@
         "namespace": "android_app",
         "package_name": "io.github.real_remi.twa2",
         "sha256_cert_fingerprints": ["F3:C1:9C:83:18:3D:D6:24:54:24:2C:83:BB:7C:79:B9:6F:91:DD:C7:34:44:96:B4:0C:E6:05:CB:A0:13:BF:AA"]
+      },
+        {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.real_remi.twa3",
+        "sha256_cert_fingerprints": ["4E:EA:2C:35:9C:E9:0F:5A:43:24:A9:CA:0B:B1:34:93:E8:49:92:80:10:64:3D:C9:5D:D8:75:BE:BE:84:D7:57"]
       }
-    }]
+    }]    
 
