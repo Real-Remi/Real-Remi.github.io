@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.real_remi.twa",
+        "sha256_cert_fingerprints": ["04:2D:65:1F:98:7E:EA:EE:2D:3C:42:8C:3A:14:2F:97:0F:BF:71:35:D6:46:D2:14:2A:FE:79:B7:A6:8B:D9:A7"]
+      }
+    }]
